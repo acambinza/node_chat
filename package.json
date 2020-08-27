@@ -1,0 +1,28 @@
+{
+  "name": "chat_curso",
+  "version": "1.0.0",
+  "description": "Chat com nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ACambinza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "consign": "^0.1.6",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-layouts": "^1.0.0",
+    "express-session": "^1.16.1",
+    "express-validator": "^5.3.1",
+    "mongodb": "^3.2.3",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.18.11",
+    "socket.io": "^2.2.0",
+    "supports-color": "^6.1.0",
+    "util-deprecate": "^1.0.2"
+  }
+}
